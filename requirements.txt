@@ -1,0 +1,12 @@
+numpy
+torch
+torchvision
+opencv-python
+Pillow
+datasets
+transformers
+peft
+trl
+pandas
+tqdm
+scikit-learn
